@@ -1,7 +1,7 @@
 from file import divide_by_zero
 import sentry_sdk
 
-# Added something
+# Added something different
 
 sentry_sdk.init(
     dsn="http://af2daeb6f96e417f81a9787e72cea45c@localhost:8000/12",
