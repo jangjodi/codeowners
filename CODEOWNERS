@@ -1,2 +1,4 @@
 *.py @jangjodi
 path/* @jangjodi
+*.py @jangjodi
+path/* @jangjodi
